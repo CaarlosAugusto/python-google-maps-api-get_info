@@ -1,5 +1,5 @@
 # python-google-maps-api-get_info
-A script to get name, address, contact information and opening hours from Google Maps API
+A script using Google Maps API to get name, address, contact information and opening hours from which place the user choose.
 
 # Requirements to run this code:
 In the prompt command:
